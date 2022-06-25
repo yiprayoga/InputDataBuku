@@ -1,16 +1,13 @@
 # tugaspert14
 
-A new Flutter project.
+Tugas Pertemuan 14
+Mobile Programming
 
-## Getting Started
+aplikasi input data buku
 
-This project is a starting point for a Flutter application.
+berikut screenshotnya 
 
-A few resources to get you started if this is your first Flutter project:
+![1656180880263](https://user-images.githubusercontent.com/66892087/175786129-38e55970-4f6f-4f83-8d92-fcce598721dd.jpg)
+![1656180880292](https://user-images.githubusercontent.com/66892087/175786130-75596a6a-3629-4a31-b6f0-9d06c20a9b47.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/66892087/175786126-0e37c51e-1ddf-4bed-abac-c60f0e1159c4.mp4
